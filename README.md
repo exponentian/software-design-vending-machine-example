@@ -11,3 +11,4 @@
 #### Objectives
 - Understanding of Java and Objected-oriented design pattern
 - Hands-on experience with Junit testing
+- Learning a [bucket sorting](https://en.wikipedia.org/wiki/Bucket_sort) technique to get most selling product
